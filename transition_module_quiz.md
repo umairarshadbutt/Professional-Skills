@@ -15,6 +15,7 @@
 - Describe the importance of using tools like Huntr to track your job search.
 
 
+
 ### Estimated time: Xh
 
 ## Instructions
